@@ -1,6 +1,7 @@
-Flask
-requests
-google-auth-oauthlib
-google-auth
-cachecontrol
-Flask-Dance
+Flask==2.0.1
+Flask-Dance==5.1.0
+google-auth-oauthlib==0.4.6
+google-auth==2.3.3
+google-api-python-client==2.86.0
+requests==2.26.0
+cachecontrol==0.12.6
