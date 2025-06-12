@@ -111,6 +111,3 @@ The application will be available at `http://127.0.0.1:5000`
 
 Vaibhav - [GitHub Profile](https://github.com/Its-Vaibhav-2005)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
