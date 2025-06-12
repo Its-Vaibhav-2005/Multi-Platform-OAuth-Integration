@@ -1,0 +1,6 @@
+Flask
+requests
+google-auth-oauthlib
+google-auth
+cachecontrol
+Flask-Dance
