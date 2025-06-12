@@ -4,43 +4,24 @@ A Flask-based web application that implements OAuth 2.0 authentication for both 
 
 ## Features
 
-- **Dual Platform Authentication**
-  - Google OAuth 2.0 Integration
-  - GitHub OAuth Integration
-  - Secure Session Management
-  - Profile Information Display
-
-- **GitHub Integration**
-  - View all GitHub repositories
-  - Repository details including:
-    - Name and description
-    - Star count
-    - Fork count
-    - Watcher count
-    - Direct link to repository
-
-- **Google Drive Integration**
-  - View all Google Drive files
-  - File details including:
-    - File name and type
-    - Creation and modification dates
-    - File size (formatted)
-    - File type icons
-    - Direct link to file in Drive
-  - Support for various file types:
-    - Google Docs, Sheets, Slides
-    - Folders
-    - Images, PDFs
-    - Videos, Audio files
-    - Other file types
-
-- **Modern UI/UX**
-  - Responsive design
-  - Animated gradient background
-  - Card-based layout
-  - Interactive elements
-  - File type icons
-  - Clean and intuitive interface
+| Category | Feature | Description |
+|----------|---------|-------------|
+| **Authentication** | Google OAuth 2.0 | Secure login using Google account with Drive access |
+| | GitHub OAuth | Secure login using GitHub account with repository access |
+| | Session Management | Secure session handling with automatic timeout |
+| | Profile Display | Shows user profile information after login |
+| **GitHub Integration** | Repository List | View all GitHub repositories |
+| | Repository Details | Name, description, star count, fork count, watcher count |
+| | Direct Access | One-click access to repository on GitHub |
+| **Google Drive Integration** | File Browser | View all Google Drive files |
+| | File Metadata | Name, type, creation date, modification date, size |
+| | File Types | Support for Docs, Sheets, Slides, Folders, Images, PDFs, Videos, Audio |
+| | Direct Access | One-click access to files in Google Drive |
+| **User Interface** | Responsive Design | Works on all screen sizes and devices |
+| | Modern Design | Animated gradient background and card-based layout |
+| | Interactive Elements | Hover effects and smooth transitions |
+| | File Icons | Visual indicators for different file types |
+| | Clean Layout | Intuitive and user-friendly interface |
 
 ## Prerequisites
 
